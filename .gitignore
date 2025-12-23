@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Datasets
+*.csv
+
+# Trained models
+*.keras
+*.h5
+
+# Logs
+*.log
